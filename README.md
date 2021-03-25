@@ -13,6 +13,8 @@ After clicking on the button you will be provided with the choice of the templat
 Please kindly choose one of the templates by clicking `Get started` button, 
 fill the issue according to the provided template, after that click on `submit new issue` button.
 
-We try to resolve these issues as soon as possible.
+
+
+    We try to resolve these issues as soon as possible.
 
 Thank you for your support.
