@@ -23,6 +23,6 @@ Note description.
 
 **Note/Exception Examples [optional]**
 each note should have its own examples
-Each example should be on the new line:
+Each example should be on a new line:
 1. _first example_
 2. _second example_
