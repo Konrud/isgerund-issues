@@ -14,7 +14,7 @@ assignees: ''
 [e.g. gerund, infinitive, infinitive with `to`]
 
 **Examples**
-Each example should be on the new line:
+Each example should be on a new line:
 1. _first example_
 2. _second example_
 
