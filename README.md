@@ -2,7 +2,7 @@
 Welcome, on this page you would be able to help us improve our website by suggesting a fix, new proposal or creating a bug report.
 
 ## How To create a new issue?
-To start, please click on the `issues` tab above.
+To start, please click on the [`issues`](https://github.com/Konrud/isgerund-issues/issues) tab above.
 
 After clicking please kindly use search to see whether similar issue has already been created by others.
 
